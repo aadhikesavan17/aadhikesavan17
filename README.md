@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning backend development
 - 🔭 Here's my [project]
 - [e-commerce website](https://aadhikesavan17.github.io/aadhi.project1/)
-  <h6>weather app</h6>
+- [weather app](https://aadhikesavan17.github.io/aadhi.project2_Weather-App/)
   <h6>To do list</h6>
 -  ⚡ Languages known : English Tamil Kannada
 - 📫 How to reach me :
