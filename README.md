@@ -9,4 +9,6 @@
   <h6>To do list</h6>
 -  ⚡ Languages known : English Tamil Kannada
 - 📫 How to reach me :
- <br /> [	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/aadhi-kesavan/)
+ <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aadhi-kesavan/)
+- 😄 Pronouns: Techie
+- ⚡ Fun fact: I know Japanese.
