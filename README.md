@@ -2,15 +2,13 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <h3>A passionate frontend developer</h3>
 <h2>leetcode profile</h2>
-- (https://leetcode.com/u/Aadhi17/)
+(https://leetcode.com/u/Aadhi17/)
 
 - 🌱 I’m currently learning backend development
 - 🔭 Here's my [project]
 - [chat-app](https://appsail-50023737986.development.catalystappsail.in)
 - [e-commerce website](https://aadhikesavan17.github.io/aadhi.project1/)
 - [weather app](https://aadhikesavan17.github.io/aadhi.project2_Weather-App/)
-
-- 
 
 -  ⚡ Languages known : English Tamil Kannada
 - 📫 How to reach me :
